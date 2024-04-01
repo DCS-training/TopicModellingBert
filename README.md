@@ -6,9 +6,9 @@ You are going to find a .pdf with the slides and a notebook file that we suggest
 
 ## Schedule
 
--Wednesday 3th April 2024 
+- Wednesday 3th April 2024 
   - 14:00 -- 16:00 
--Wednesday 10th April 2024 
+- Wednesday 10th April 2024 
   - 14:00 -- 16:00 
 
 
@@ -60,8 +60,8 @@ Congratulations you have now pulled the content of the repository on your Notabl
 
 
 #### Installing the needed packages 
-!pip install bertopic 
-!pip install keyphrase-vectorizers 
+`!pip install bertopic 
+!pip install keyphrase-vectorizers `
 
 
 ### 3.Installing Python via Anaconda
@@ -99,8 +99,8 @@ If you wish, you can create a Python virtual environment and install all depende
 5. Double-click on the uploaded file
 
 #### Installing the needed packages 
-!pip install bertopic 
-!pip install keyphrase-vectorizers 
+`!pip install bertopic 
+!pip install keyphrase-vectorizers `
 
 [anaconda]: https://www.anaconda.com/distribution
 [anaconda-dl]: https://www.anaconda.com/download/

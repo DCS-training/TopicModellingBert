@@ -1,6 +1,6 @@
 # Topic Modelling with Bert
 
-This is a repository for the "Topic Modelling with Bert" course provided by Xan Cochran for the CDCS and based on material created by Pedro Jacobetty. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook for the class is already uploaded (for which we suggest you to run via Google Colab), and the slides will be added shortly.
+This is a repository for the "Topic Modelling with Bert" course provided by Xan Cochran for the CDCS and based on material created by Pedro Jacobetty. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook (for which we suggest you to run via Google Colab) and slides for the class can be downloaded from this repository.
 
 
 ## Schedule

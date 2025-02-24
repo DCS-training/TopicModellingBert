@@ -18,18 +18,7 @@ If you are going to use Google Colab you do not need to install anything but you
 You can also set up locally on your computer via Anaconda or using Google Colab 
 Please notice that if you decide to use Noteable or run the notebook on your own machine you may encounter some problems in installing the libraries and you may not have enough ram to run it.  
 
-### 1. Using Python On Noteable
-
-1. Go to https://noteable.edina.ac.uk/login
-2. Login with your EASE credentials
-3. Select 'Standard Notebook (Python3)' as a personal notebook server and press start
-4. Click the 'Git' menu, and 'Clone a Repository'
-5. Copy and Paste this repository URL https://github.com/DCS-training/TopicModellingBert as the Repository URL - you do not need to add in any other fields.
-6. Decide where to locate the folder. By default, it will locate it in your home directory
-7. Press 'Clone'
-Congratulations you have now pulled the content of the repository on your Notable server space. 
-
-### 2. Run the notebooks via GoogleColab
+### 1. Run the notebooks via GoogleColab
 
 Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
 If you are not already logged you will be prompted to log-in via Gmail
@@ -58,7 +47,20 @@ To clear the results and run the code again you can use the 'Cell' menu on the t
 
 #### Installing the needed packages 
 `!pip install bertopic 
-!pip install keyphrase-vectorizers `
+!pip install keyphrase-vectorizers
+!pip install nbformat `
+
+### 2. Using Python On Noteable
+
+Warning: unlike Colab, this cannot run training on a GPU, and as such will be very, very slow
+1. Go to https://noteable.edina.ac.uk/login
+2. Login with your EASE credentials
+3. Select 'Standard Notebook (Python3)' as a personal notebook server and press start
+4. Click the 'Git' menu, and 'Clone a Repository'
+5. Copy and Paste this repository URL https://github.com/DCS-training/TopicModellingBert as the Repository URL - you do not need to add in any other fields.
+6. Decide where to locate the folder. By default, it will locate it in your home directory
+7. Press 'Clone'
+Congratulations you have now pulled the content of the repository on your Notable server space. 
 
 
 ### 3.Installing Python via Anaconda

@@ -1,6 +1,6 @@
 # Topic Modelling with Bert
 
-This is a repository for the "Topic Modelling with Bert" course, developed by Joy Lan and Aybuke Atalay. The course builds on an earlier version created by Xan Cochran and Pedro Jacobetty, and reuses and adapts elements of their original materials. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook (for which we suggest you to run via Edina Noteable) and slides for the class can be downloaded from this repository.
+This is a repository for the "Topic Modelling with Bert" course developed by Joy Lan and Aybuke Atalay, building on its earlier versions created by Xan Cochran and Pedro Jacobetty. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook (for which we suggest you to run via Edina Noteable) and slides for the class can be downloaded from this repository.
 
 
 ## Course Structure

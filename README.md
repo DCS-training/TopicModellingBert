@@ -1,14 +1,15 @@
 # Topic Modelling with Bert
 
-This is a repository for the "Topic Modelling with Bert" course provided by Xan Cochran for the CDCS and based on material created by Pedro Jacobetty. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook (for which we suggest you to run via Edina Noteable) and slides for the class can be downloaded from this repository.
+This is a repository for the "Topic Modelling with Bert" course, developed by Joy Lan and Aybuke Atalay based on Xan Cochran and Pedro Jacobetty. Within this repository you are going to find all the material needed to attend this two-classes course once it will be ready. The notebook (for which we suggest you to run via Edina Noteable) and slides for the class can be downloaded from this repository.
 
 
-## Schedule
+## Course Structure
 
-- Friday 28th February 2025
-  - 10:00 -- 12:00 
-- Friday 7th March 2025 
-  - 10:00 -- 12:00 
+Session 1: Thursday 2nd April 2026
+- Session 1 will introduce the core concepts behind topic modelling, focusing on how text can be represented and analysed using BERT-based approaches. We will begin with the theoretical foundations and then move to a hands-on notebook, where we will run a BERTopic model on a sample dataset. The session will conclude with a brief look at the generated topics to give a first sense of the results.
+
+Session 2: Friday 9th April 2026 
+- Session 2 will focus on interpreting and working with the outputs from BERTopic. We will explore how to examine topics in more detail, use visualisations, and discuss practical ways to improve topic quality. The session will also introduce more advanced extensions, including how embedding models can be fine-tuned to better suit specific datasets.
 
 
 ## SetUp 

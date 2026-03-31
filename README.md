@@ -37,7 +37,7 @@ The Notebook contains paragraphs of explanatory text interspersed with grey cell
 6.  It is best to follow the Notebook from top to bottom as some code blocks will depend on results from previous cells
 7.  You can edit code blocks yourself and run them to see the results of your changes
 
-All material collected here is free to use but is covered by a License: [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
    
 #### Clearing the cells
 To clear the results and run the code again you can use the 'Cell' menu on the top menu bar
@@ -111,4 +111,4 @@ If you wish, you can create a Python virtual environment and install all depende
 [video-windows]: https://www.youtube.com/watch?v=xxQ0mzZ8UvA 
 
 
-
+All material collected here is free to use but is covered by a License: [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
